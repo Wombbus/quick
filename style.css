@@ -8,3 +8,7 @@ body{
     font-style:italic;
     
 }
+
+canvas{
+    margin-top: 100px;
+}
